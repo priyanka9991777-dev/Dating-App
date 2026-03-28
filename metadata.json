@@ -1,0 +1,7 @@
+{
+  "name": "Spark",
+  "description": "A modern dating app UI concept featuring swipeable profile cards, matches, and messaging interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
